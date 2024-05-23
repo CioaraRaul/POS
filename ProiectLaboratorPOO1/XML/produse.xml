@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<produse>
+	<produs>
+		<Nume>Masinia</Nume>
+		<CodIntern>44s</CodIntern>
+		<Producator>Bmw</Producator>
+		<Pret>1000000</Pret>
+		<Categorie>Auto</Categorie>
+	</produs>
+
+	<produs>
+		<Nume>Smartphone</Nume>
+		<CodIntern>212gg</CodIntern>
+		<Producator>Iphone</Producator>
+		<Pret>7000</Pret>
+		<Categorie>Telefoane</Categorie>
+	</produs>
+
+	<produs>
+		<Nume>Masina tuns iarba</Nume>
+		<CodIntern>55g</CodIntern>
+		<Producator>Bosch</Producator>
+		<Pret>399</Pret>
+		<Categorie>Gradinarit</Categorie>
+	</produs>
+
+	<produs>
+		<Nume>PS5</Nume>
+		<CodIntern>99k9</CodIntern>
+		<Producator>Sony</Producator>
+		<Pret>2500</Pret>
+		<Categorie>Gaming</Categorie>
+	</produs>
+
+	<produs>
+		<Nume>Solutie de spalat geamuri</Nume>
+		<CodIntern>22xxx</CodIntern>
+		<Producator>Clin</Producator>
+		<Pret>22</Pret>
+		<Categorie>Curatare</Categorie>
+	</produs>
+
+	<serviciu>
+		<Nume>Anvelope</Nume>
+		<CodIntern>ll2a</CodIntern>
+		<Pret>1000</Pret>
+		<Categorie>Auto</Categorie>
+	</serviciu>
+
+	<serviciu>
+		<Nume>Parfum</Nume>
+		<CodIntern>85ssq</CodIntern>
+		<Pret>400</Pret>
+		<Categorie>Frumusete</Categorie>
+	</serviciu>
+</produse> 

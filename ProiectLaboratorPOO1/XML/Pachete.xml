@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<pachete>
+	<pachet>
+		<infoPach>
+			<nume>Nume</nume>
+			<codIntern>CodIntern1</codIntern>
+			<categorie>a</categorie>
+		</infoPach>
+		<produs>
+			<nume>Nume2</nume>
+			<codIntern>CodIntern2</codIntern>
+			<producator>NVIDIA</producator>
+			<categorie>b</categorie>
+			<pret>53</pret>	
+		</produs>
+		<serviciu>
+			<nume>Serviciu1</nume>
+			<codIntern>CodIntern3</codIntern>
+			<categorie>X</categorie>
+			<pret>2121</pret>	
+		</serviciu>
+	</pachet>
+
+	<pachet>
+		<infoPach>
+			<nume>InfoPach</nume>
+			<codIntern>CodIntern4</codIntern>
+			<categorie>C</categorie>
+		</infoPach>
+		<produs>
+			<nume>Produs</nume>
+			<codIntern>CodIntern5</codIntern>
+			<producator>fas</producator>
+			<categorie>M</categorie>
+			<pret>1111</pret>
+		</produs>
+		<serviciu>
+			<nume>Serviciu</nume>
+			<codIntern>CodIntern6</codIntern>
+			<categorie>Q</categorie>
+			<pret>1</pret>
+		</serviciu>
+	</pachet>
+
+</pachete>
